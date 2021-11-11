@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815622566036",
+    "project_id": "chatapp-99464",
+    "storage_bucket": "chatapp-99464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815622566036:android:a5308a7c2fd1defda28481",
+        "android_client_info": {
+          "package_name": "com.busybee.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815622566036-fgbak18kkis4geeed063parf1uc5r3vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByydZjUCc5PV7sOBIOuLwJesJSHYYmLOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815622566036-fgbak18kkis4geeed063parf1uc5r3vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
